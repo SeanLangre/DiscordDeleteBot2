@@ -5,6 +5,7 @@ A Python-based Discord bot template that provides basic functionality and is rea
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [License](#license)
 
 ## Introduction
 
